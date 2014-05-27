@@ -1,0 +1,4 @@
+cspec
+=====
+
+Checks ruby programs
